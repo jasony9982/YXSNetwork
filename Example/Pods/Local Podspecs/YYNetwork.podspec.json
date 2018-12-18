@@ -1,0 +1,30 @@
+{
+  "name": "YYNetwork",
+  "version": "0.1.0",
+  "summary": "A short description of YYNetwork.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jasony9982/YYNetwork",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "袁培超": "yuanpeichao@kaike.la"
+  },
+  "source": {
+    "git": "https://github.com/jasony9982/YYNetwork.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YYNetwork/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ],
+    "YYModel": [
+
+    ]
+  }
+}
