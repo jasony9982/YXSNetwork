@@ -1,9 +1,9 @@
-# YYNetwork
+# YXSNetwork
 
-[![CI Status](https://img.shields.io/travis/袁培超/YYNetwork.svg?style=flat)](https://travis-ci.org/袁培超/YYNetwork)
-[![Version](https://img.shields.io/cocoapods/v/YYNetwork.svg?style=flat)](https://cocoapods.org/pods/YYNetwork)
-[![License](https://img.shields.io/cocoapods/l/YYNetwork.svg?style=flat)](https://cocoapods.org/pods/YYNetwork)
-[![Platform](https://img.shields.io/cocoapods/p/YYNetwork.svg?style=flat)](https://cocoapods.org/pods/YYNetwork)
+[![CI Status](https://img.shields.io/travis/袁培超/YXSNetwork.svg?style=flat)](https://travis-ci.org/袁培超/YXSNetwork)
+[![Version](https://img.shields.io/cocoapods/v/YXSNetwork.svg?style=flat)](https://cocoapods.org/pods/YXSNetwork)
+[![License](https://img.shields.io/cocoapods/l/YXSNetwork.svg?style=flat)](https://cocoapods.org/pods/YXSNetwork)
+[![Platform](https://img.shields.io/cocoapods/p/YXSNetwork.svg?style=flat)](https://cocoapods.org/pods/YXSNetwork)
 
 ## Example
 
@@ -13,11 +13,11 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Installation
 
-YYNetwork is available through [CocoaPods](https://cocoapods.org). To install
+YXSNetwork is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'YYNetwork'
+pod 'YXSNetwork'
 ```
 
 ## Author
@@ -26,4 +26,4 @@ pod 'YYNetwork'
 
 ## License
 
-YYNetwork is available under the MIT license. See the LICENSE file for more info.
+YXSNetwork is available under the MIT license. See the LICENSE file for more info.

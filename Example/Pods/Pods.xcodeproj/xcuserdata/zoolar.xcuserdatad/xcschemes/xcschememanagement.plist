@@ -9,22 +9,22 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-YYNetwork_Example.xcscheme</key>
+		<key>Pods-YXSNetwork_Example.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-YYNetwork_Tests.xcscheme</key>
+		<key>Pods-YXSNetwork_Tests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>YXSNetwork.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
 		<key>YYModel.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>YYNetwork.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
